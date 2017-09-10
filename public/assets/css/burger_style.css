@@ -1,0 +1,71 @@
+body {
+  background-image: url("../img/plaid.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+h1 {
+  font-family: 'Oregano',
+  cursive;
+  text-align: center;
+  color: #eb4143;
+  background-color: #ffed64;
+  text-shadow: 2px -1px 1px #732122
+}
+
+img {
+  background-color: #cce159;
+  box-shadow: 1px 2px 6px 2px #333;
+  float: unset
+}
+
+#title-row {
+background-color: rgb(243, 137, 75);
+margin-top: 10px;
+}
+#body-row {
+  background-color: rgb(240, 234, 202);
+}
+
+h2 {
+  font-family: 'Tenali Ramakrishna',
+  sans-serif
+}
+
+li {
+  padding: 5px;
+  margin: 5px;
+  background: rgb(248, 183, 114);
+  font-family: 'Baloo Bhaijaan',
+  cursive;
+  font-size: 15px
+
+}
+
+.label {
+  font-weight: bolder
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: #cee35a;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+#font-oregano {
+  font-family: 'Oregano';
+  font-size: 24px;
+}
+
+#font-tenali {
+    font-family: 'Tenali Ramakrishna',
+    sans-serif;
+    font-size: 24px;
+}
+#font-addburger {
+  font-family: 'Baloo Bhaijaan', cursive;
+  font-size: 15px;
+}
